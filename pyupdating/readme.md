@@ -1,5 +1,10 @@
 # Pyupdating
 
+[![Language Badge](https://img.shields.io/badge/language-python-blue)](https://www.python.org/)
+[![Athor Badge](https://img.shields.io/badge/Author-JianXu-green)](https://sites.google.com/binghamton.edu/jian-xu)
+[![Version Badge](https://img.shields.io/badge/pyupdating-0.0.1-brightgreen)](https://github.com/xujianzi/PythonDevlop/tree/master/pyupdating)
+[![Github Badge](https://img.shields.io/github/followers/xujianzi?style=social)](https://github.com/xujianzi)
+
 ## Description
 
 > This is the summay docs for python module actions. Everytime we reuse the [python](https://www.python.org/), there are always lots of packages need to update. This script serves to auto-upgrade all the outdated packages. We also mark and write the common commands in [pip](https://pip.pypa.io/en/stable/).

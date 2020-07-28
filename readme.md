@@ -1,8 +1,9 @@
 # Python-based developed tools and functions
 
-Author: Jian Xu ([https://sites.google.com/binghamton.edu/jian-xu](https://sites.google.com/binghamton.edu/jian-xu))
-
-Email: jxu109@binghamton.edu
+[![Language Badge](https://img.shields.io/badge/language-python-blue)](https://www.python.org/)
+[![Athor Badge](https://img.shields.io/badge/Author-JianXu-green)](https://sites.google.com/binghamton.edu/jian-xu)
+[![Version Badge](https://img.shields.io/badge/pythonDevlop-0.0.1-brightgreen)](https://github.com/xujianzi/PythonDevlop)
+[![Github Badge](https://img.shields.io/github/followers/xujianzi?style=social)](https://github.com/xujianzi)
 
 ---
 
